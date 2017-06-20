@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/miku.unity
+  isLoaded: 1
+  isActive: 1
